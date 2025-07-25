@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Contact = () => {
-  const email =import.meta.env.VITE_MYEMAIL
-  const formsubmiturl ="https://formsubmit.co/" + {email}
+
+  const formsubmiturl ="https://formsubmit.co/pujanstha505@gmail.com"
   return (
     <>
     <section className="bg-blue-50 mt-20 dark:bg-slate-800" id="contact">
