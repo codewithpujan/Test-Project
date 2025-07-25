@@ -36,8 +36,8 @@ const Footer = (props) => {
           </Link>
         </li>
         <li>
-          <Link to="/contact" className="hover:underline">
-            Contact
+          <Link to="/contacts" className="hover:underline">
+            Contacts
           </Link>
         </li>
       </ul>
